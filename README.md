@@ -102,17 +102,13 @@ lib.callback('flyer_job:addMoney', false, function(success)
 end, payment)
 ```
 
-## Support
-
-For support and updates, join our Discord community: [https://discord.gg/yourserver](https://discord.gg/yourserver)
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributors
 
-- Your Name / Team Name
+- Brozovec
 
 ---
 
